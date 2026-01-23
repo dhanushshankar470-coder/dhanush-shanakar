@@ -1,0 +1,3 @@
+The dashboard shows total sales of ₹51 million with an average quantity of 4.9 units per sale.
+ Sales are spread across multiple states and products, with strong usage of both cash and digital payment methods.
+ Overall performance indicates stable and well-distributed sales across regions and channels.
