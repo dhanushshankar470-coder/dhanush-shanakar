@@ -1,0 +1,17 @@
+Report on Food Delivery Dashboard
+
+The dashboard provides an overview of customer orders, restaurant performance, and payment behavior. 
+
+A total of 2,746 orders were placed, covering approximately 2.75K food items, indicating strong overall demand.
+
+North Indian restaurants contribute the highest quantity of orders, followed by South Indian and Mughlai cuisines. 
+
+Among food items, popular dishes like Biryani, Butter Chicken, and Chole show higher order quantities, highlighting customer preferences.
+
+In terms of customers, Gold members place more orders compared to Regular members, and they show a higher delivery completion rate. 
+
+UPI is the most preferred payment method, especially among Gold members, followed by Cash on Delivery (COD) and Card payments.
+
+Overall, the dashboard indicates that premium members, popular cuisines,
+
+and digital payment methods play a key role in driving order volume and successful deliveries.
