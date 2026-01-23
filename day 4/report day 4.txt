@@ -1,0 +1,1 @@
+The Power BI dashboard presents an aalysis of sales performance across different products, states, and payment methods. Its shows that smartphones , lapyops, and headphones contribute significantly to total sales, with debit and credit cards being the most used payment types. State-wise distribution highlights variations in sales quantity and revenue across regions in India.
